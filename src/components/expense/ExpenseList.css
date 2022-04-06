@@ -1,0 +1,9 @@
+.expenseList {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: fit-content;
+  background-color: #009;
+  gap: 30px;
+  padding: 20px 40px;
+}

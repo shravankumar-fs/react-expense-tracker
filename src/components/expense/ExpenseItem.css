@@ -1,0 +1,21 @@
+.expenseRow {
+  display: flex;
+  width: 96%;
+  height: fit-content;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #005;
+  padding: 10px 20px;
+}
+.expenceRowPrice {
+  background: #505;
+  width: 15%;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 10px;
+}
+li {
+  list-style: none;
+}

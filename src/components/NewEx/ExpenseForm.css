@@ -1,0 +1,33 @@
+.expenseForm {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.Controls {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 10px;
+}
+.Control {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 280px;
+}
+
+.Control input {
+  background-color: #005;
+  border: none;
+  width: 180px;
+  padding: 5px 10px;
+}
+.Control input:focus {
+  outline: 1px solid #00f;
+}
+.Actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

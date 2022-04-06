@@ -1,0 +1,9 @@
+.dateDisplay {
+  font-size: 14px;
+  width: 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #009;
+  padding: 10px;
+}

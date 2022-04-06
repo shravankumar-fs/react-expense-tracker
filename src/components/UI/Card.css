@@ -1,0 +1,5 @@
+.Card {
+  border-radius: 20px;
+  box-shadow: 4px 4px 5px 0px #0007, -2px -2px 5px 0px #fff3,
+    inset 2px 2px 5px 0px #0007, inset -4px -4px 5px 0px #fff3;
+}
